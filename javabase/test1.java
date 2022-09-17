@@ -11,8 +11,7 @@ public class test1 {
 		System.out.println(cr+a+b);
 		System.out.println(a++);
 		System.out.println(++a);
-		System.out.println();
-	
+			
 	}
 
 }
